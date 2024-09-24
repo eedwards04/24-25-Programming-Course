@@ -1,0 +1,3 @@
+C:/Users/TechSolutions/CLionProjects/Chapter 2/Project 14/cmake-build-debug/CMakeFiles/Project_14.dir
+C:/Users/TechSolutions/CLionProjects/Chapter 2/Project 14/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/TechSolutions/CLionProjects/Chapter 2/Project 14/cmake-build-debug/CMakeFiles/rebuild_cache.dir
