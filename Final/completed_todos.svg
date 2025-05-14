@@ -1,0 +1,5 @@
+<?xml version="1.0" standalone="no"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="500" font-family="Arial" font-size="16">
+  <text x="40" y="40" fill="black">Congrats! Yayyyy</text>
+  <path d="M20 6L9 17L4 12" stroke="green" stroke-width="2" fill="none" transform="translate(10,30) scale(1.5)"/>
+</svg>

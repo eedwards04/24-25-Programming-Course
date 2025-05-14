@@ -1,0 +1,5 @@
+After this code is executed, the array happy_string will still contain the six
+letters in the C-string "DoBeDo", but happy_string will no longer contain the
+null character '\0' to mark the end of the C string. Many string-manipulating
+functions depend critically on the presence of '\0' to mark the end of the
+C-string value.

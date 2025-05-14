@@ -1,0 +1,1 @@
+"C:\\Users\\ellae\\OneDrive\\Desktop\\C++\\Chapter 6 text files\\project 1.txt"
