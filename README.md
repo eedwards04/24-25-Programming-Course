@@ -1,2 +1,2 @@
-C++ Coding course through Blue Valley CAPS.
-8 Chapter Course plus final through textbook https://cdn.inst-fs-iad-prod.inscloudgate.net/c028e0fc-adee-47d8-9ec1-0b8834b428ad/Problem_Solving_with_C%2B%2B_(9th_Savitch)-1.pdf?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9jMDI4ZTBmYy1hZGVlLTQ3ZDgtOWVjMS0wYjg4MzRiNDI4YWQvUHJvYmxlbV9Tb2x2aW5nX3dpdGhfQyUyQiUyQl8oOXRoX1Nhdml0Y2gpLTEucGRmIiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6IjEwOTY4MDAwMDAwMDAwOTA0MyIsImlhdCI6MTc0MzY1NjY0MywiZXhwIjoxNzQzNzQzMDQzfQ.6Z64-IrnRnaQ-dZUm4KUbg-xFcePjuiobG8v3Op_HB3rRPswi8eHD98-0oF9Q0o_chMIN5gfCffbB-nbWl7MYw&download=1&content_type=application%2Fpdf
+C++ Coding course, Object Oriented Programming with C++, through Blue Valley CAPS and Johnson County Community College
+8 Chapter Course plus final through the textbook Problem Solving with C++ by Walter J. Savitch — 9th Edition (2014), ISBN 978-0133591743
